@@ -1,0 +1,1 @@
+This repository is dedicated to helping beginners master the fundamentals of Java programming, specifically designed for BCA students and anyone interested in building a strong foundation in core Java.
