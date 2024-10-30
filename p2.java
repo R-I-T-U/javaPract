@@ -1,6 +1,7 @@
 // wap to check whether input alphabet is vowel is consonant.
 
 import java.util.Scanner;
+//A class is the blueprint from which individual objects are created.
 
 public class p2 {
     public static void main(String [] args){
