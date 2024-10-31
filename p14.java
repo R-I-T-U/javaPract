@@ -22,6 +22,6 @@ public class p14 {
             }
             System.out.println("sum of row "+i+" is "+sum);
         }
-        
+  
     }
 }
