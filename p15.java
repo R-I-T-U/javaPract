@@ -1,4 +1,6 @@
 // method overloading
+
+//Multiple methods can have the same name as long as the number and/or type of parameters are different.
 public class p15 {
     public int add(int a , int b){
         return a+b;

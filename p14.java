@@ -1,3 +1,5 @@
+//jagged array  , sum of it's rows
+
 import java.util.*;
 
 public class p14 {
